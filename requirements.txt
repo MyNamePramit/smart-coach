@@ -1,0 +1,13 @@
+fastapi==0.110.3
+uvicorn[standard]==0.22.0
+numpy==1.26.4
+pydantic==2.5.0
+sqlalchemy==2.0.19
+python-multipart==0.0.6
+openai>=1.30.0,<2
+kokoro>=0.9.2
+soundfile
+faster-whisper
+json-repair
+sentence-transformers
+deepgram-sdk>=3.0.0
