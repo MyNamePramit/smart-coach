@@ -5,7 +5,7 @@ pydantic==2.5.0
 sqlalchemy==2.0.19
 python-multipart==0.0.6
 openai>=1.30.0,<2
-kokoro>=0.9.2
+kokoro>=0.9.2,<1.0
 soundfile
 faster-whisper
 json-repair
